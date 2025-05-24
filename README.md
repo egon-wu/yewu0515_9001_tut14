@@ -1,6 +1,6 @@
 # 🛹 Skate Clash: Battle of Tricks!
 A Text-Based Skateboarding Competition Game
-![Skateboarding Action](skate_action.png)
+![Skateboarding Action](assets/skate_action.png)
 ## 🎮 How to Play
 Compete in a 1v1 trick battle across three rounds:  
 1. **Qualifier**  
