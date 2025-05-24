@@ -16,7 +16,7 @@ Each trick has its own:
 
 Outscore your AI opponent to win each round. Survive all 3 rounds to win the championship!
 
-## 💻 Sample Run
+## Sample Run
 
 ```text
 🏁 Welcome to Skate Clash: Battle of Tricks!
