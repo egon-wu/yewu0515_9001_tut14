@@ -15,9 +15,9 @@ MAX_TURNS_PER_ROUND = 3  # Each side gets 3 chances per round
 
 def generate_opponent(round_level: int) -> Player:
     names = {
-        1: ["Rookie Ryan", "Casual Chloe", "Slow Sam"],
-        2: ["Midrange Max", "Tough Tina", "Skater Sean"],
-        3: ["Pro Parker", "Boss Bella", "Legend Leo"]
+        1: ["Ryan", "Chloe", "Sam"],
+        2: ["Tom Penny", "Rob Dyrdek", "Sean"],
+        3: ["Nyjah Huston", "Tony Hawk", "Andrew Reynolds"]
     }
     opponent_name = random.choice(names[round_level])
     opponent = Player(opponent_name, is_player=False)
